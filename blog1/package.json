@@ -1,0 +1,24 @@
+{
+  "name": "yexiyue.github.io",
+  "version": "1.0.0",
+  "description": "vuepress by blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src",
+    "deploy": "bash deploy-gh.sh"
+  },
+  "repository": "git+https://github.com/yexiyue/blog.git",
+  "keywords": [],
+  "author": "yexiyue",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yexiyue/blug/issues"
+  },
+  "homepage": "https://github.com/yexiyue/blog#readme",
+  "dependencies": {
+    "vuepress": "^1.4.1",
+    "vuepress-theme-melodydl": "^1.1.2"
+  },
+  "private": false
+}
