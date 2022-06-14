@@ -1,12 +1,18 @@
 ---
 title: 对indexedDB的简单封装
 date: 2022-04-27
+cover: /images/2053194.jpg
 tags:
- - indexedDB 
+ - indexedDB  
  - javascript
+categories:
+ - 浅浅探索
 ---
+::: tip 介绍
 基于promise对indexedDB的简单封装
+:::
 <!-- more -->
+
 # IDBClass
 
 **基于promise对indexedDB的简单封装**

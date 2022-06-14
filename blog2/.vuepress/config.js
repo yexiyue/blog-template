@@ -3,13 +3,13 @@ module.exports = {
   "description": "心软不是病，回头才致命",
   "dest": "dist",
   "head": [
-    [
+    /* [
       "link",
       {
         "rel": "icon",
         "href": "favicon.ico"
       }
-    ],
+    ], */
     [
       "meta",
       {
@@ -65,16 +65,10 @@ module.exports = {
     },
     "friendLink": [
       {
-        "title": "作者博客",
-        "desc": "zealsay说你想说",
-        "logo": "https://pan.zealsay.com/avatar/20200606105310570000000.jpg",
-        "link": "https://blog.zealsay.com"
-      },
-      {
         "title": "另一个博客",
-        "desc": "vuepress_blog",
-        "logo": "https://pan.zealsay.com/blog/logo.png",
-        "link": "https://www.zealsay.com"
+        "desc": "红尘散仙",
+        "logo": "https://s2.loli.net/2022/06/14/fgbwH1c5dlZUiuy.jpg",
+        "link": "https://yexiyue.github.io/"
       },
     ],
 
@@ -96,7 +90,7 @@ module.exports = {
     "startYear": "2022",
     "info": "全网人民大家好，我是练习时长两年半的前端练习生，红尘散仙，喜欢唱 跳 rap 篮球。",
     "socials": {
-      "github": "https://github.com/GodLikeZeal", //github
+      "github": "https://github.com/yexiyue", //github
       //"gitlub": false, //gitlub
       //"gitee": "https://gitee.com/GodLikeZeal", //gitee
       //"jianshu": "https://www.jianshu.com/u/e2d051b6d2e9", //简书
@@ -105,8 +99,8 @@ module.exports = {
       "juejin": "https://juejin.cn/user/334694205359901", //掘金
       //"segmentfault": "https://segmentfault.com/u/zeal_5eecb699bdb08", //思否
       //"csdn": false, //CSDN
-      "wechat": "15881815560", //微信
-      "qq": "3066921758" //QQ
+      "wechat": false, //微信
+      "qq": false //QQ
     },
 
     //首页文案，可以自己更换每天会自动显示一段
@@ -120,23 +114,23 @@ module.exports = {
       "en": "Flowers are all kinds of red. People are different from dogs."
     },
     {
-      "zh": "真正的梦就是现实的彼岸。",
-      "en": "Real dream is the other shore of reality."
+      "zh": "只因人在风中，聚散不由你我。",
+      "en": "Just because people gather and disperse in the wind, it's up to you and me."
     },
     {
-      "zh": "不为模糊不清的未来担忧，只为清清楚楚的现在努力。",
-      "en": "Don't worry about the vague future, just strive for the clear present."
+      "zh": "学过很多技能，到头来才发现，最有用的技能是——看开点。",
+      "en": "After learning many skills, I finally found that the most useful skill is to be open-minded."
     },
     {
-      "zh": "与其装腔作势企图影响别人，不如咬牙切齿狠命修理自己。",
-      "en": "Rather than pretending to influence others, it's better to grind your teeth and repair yourself."
+      "zh": "好好享受生活吧，未来若干年后你会很怀念过去的美好时光。。",
+      "en": "Enjoy yourself. These are the good old days you're going to miss in the years ahead. "
     }, {
-      "zh": "上天是公平的，只要努力就会有收获，否则就是你不够努力。",
-      "en": "God is fair, as long as effort will include results, otherwise is you hard enough."
+      "zh": "打雷天站在雨里头，有点儿不讲究！",
+      "en": "It's a bit careless to stand in the rain on a thundering day."
     },
     {
-      "zh": "人生没有后悔，我们只能尽力去不让自己后悔。",
-      "en": "Life without regret, we can only do our best to not to regret."
+      "zh": "我就是想站着，还把钱挣了。",
+      "en": "I just want to stand and earn money."
     }
     ],
     //配置背景图片，7天每天一张自动更换
